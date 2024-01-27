@@ -12,7 +12,7 @@ Uilizamos da criação de um fluxograma para entender alguns pradões de algorit
 > Exemplo
 
 
-## 🛠️Tecnologias utilizadas:
+## Tecnologias utilizadas:
 
 > Editor de código
 Linguagens
